@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should capture Expenses Summary when multiple expenses 1`] = `
+<div>
+  <p>
+    Viewing 
+    3
+     expense
+    s
+     totalling 
+    $1,141.95
+  </p>
+</div>
+`;
+
+exports[`Should capture Expenses Summary when only one expense 1`] = `
+<div>
+  <p>
+    Viewing 
+    1
+     expense
+     totalling 
+    $1.95
+  </p>
+</div>
+`;
